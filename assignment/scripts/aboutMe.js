@@ -100,8 +100,7 @@ console.log('#16  ' + mostPets);
 
 // 17 - Rewrite question 16 with a `switch` statement. You'll need to do research!
 /*
-i don't really know where i was going with this but figured i'll wait to delete code im ashamed of till i have a reason haha
-
+1st attempt
 
 switch (pets) {
   case (pets > friendsPets):
